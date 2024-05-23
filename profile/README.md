@@ -1,14 +1,20 @@
-## Welcome to eodash 👋
+## Welcome to the eodash ecosystem
 
-We are in the process of setting up the eodash organization to contain all relevant aspects of setting up and configuring your own eodash ecosystem.
-This is currently work in progress, feel free to have a look but keep in mind all aspects are very much dynamic and will be changing.
-We invite you to come back soon to see all updates.
+For the main entry point and documentation please visit [eodash.org](https://eodash.org)
 
-### About
-TBD
+If you are interested in deeper exploring the contained repositories, here is a short overview:
 
-### Documentation
-TBD
-
-### Repository overview
-TBD
+* [eodash](https://github.com/eodash/eodashg)
+  - library for eodash client instance creation as well as web component release
+  - extendable and configurable through widgets
+* [eodash_catalog](https://github.com/eodash/eodash_catalog)
+  - library for creation of STAC catalog supported by eodash
+  - supports multiple backends and services
+* [eodash-pages-template](https://github.com/eodash/eodash-pages-template)
+  - template repo showing how to instantiate eodash as part of a vitepress application
+* [eodash-instance-template](https://github.com/eodash/eodash-instance-template)
+  - template repo showing how to integrate eodash as package for building and extension of functionality into a vite based application
+* [catalog-template](https://github.com/eodash/catalog-template)
+  - template repo with example setup for a catalog configuration and deployment as github pages
+* [eodash-docs](https://github.com/eodash/eodash-docs)
+  - central location for eodash ecosystem documentation
