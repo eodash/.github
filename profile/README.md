@@ -4,7 +4,7 @@ For the main entry point and documentation please visit [eodash.org](https://eod
 
 If you are interested in deeper exploring the contained repositories, here is a short overview:
 
-* [eodash](https://github.com/eodash/eodashg)
+* [eodash](https://github.com/eodash/eodash)
   - library for eodash client instance creation as well as web component release
   - extendable and configurable through widgets
 * [eodash_catalog](https://github.com/eodash/eodash_catalog)
